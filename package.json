@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "jimp": "^0.6.0"
+  }
+}
